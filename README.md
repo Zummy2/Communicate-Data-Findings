@@ -16,7 +16,10 @@ This project has two parts that demonstrate the importance and value of data vis
 - In Part I, Exploratory data visualization, I will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
 
 - In Part II, Explanatory data visualization, I will produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset. The primary method of conveying my findings will be through transforming yomyur exploratory visualizations from the first part into polished, explanatory visualizations.
+ 
+ Finally, I will be generating a slideshow of the visualizations with jupyter notebook and the pdf file will be uploaded here.
 
+ 
 ## Dataset
 For this project, I will be using data from the FordGoBike system data(now baywheels). The dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 I downloaded the datasets from [here](https://s3.amazonaws.com/baywheels-data/index.html) I used data from January 2018 till May 2019, the data has over 2.7 million rows. The dataset had 16 columns before cleaning, after my cleaning efforts, it now has 24 columns, attributes added for analysis and more insights include age, distance travlled in km etc.
